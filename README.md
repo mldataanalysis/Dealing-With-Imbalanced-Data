@@ -7,6 +7,7 @@ data.
 Resources used:
 
 1) Data mining with imbalanced class distributions concepts and methods (Prati et al 2009)
+
 http://conteudo.icmc.usp.br/pessoas/gbatista/files/iicai2009.pdf
 
 2) Resampling techniques and other strategies - Ajinkya More  
