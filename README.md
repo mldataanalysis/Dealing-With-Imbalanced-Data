@@ -2,7 +2,7 @@
 Using Imblearn To Tackle Imbalanced Data Sets
 
 Imbalanced data is a common occuring phenomenon in the world of data analysis. Here I show examples of some methods for dealing with such
-data. 
+data. The data used came from the KEEL data set repository. I used a data set called 'yeast3' which had a class imbalance ratio of 1:8.1.
 
 Resources used:
 
@@ -12,3 +12,7 @@ http://conteudo.icmc.usp.br/pessoas/gbatista/files/iicai2009.pdf
 
 2) Resampling techniques and other strategies - Ajinkya More  
 https://www.youtube.com/watch?v=-Z1PaqYKC1w
+
+3) KEEL data set repository.
+
+http://sci2s.ugr.es/keel/imbalanced.php
