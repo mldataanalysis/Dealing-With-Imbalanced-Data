@@ -6,13 +6,17 @@ data. The data used came from the KEEL data set repository. I used a data set ca
 
 Resources used:
 
-1) Data mining with imbalanced class distributions concepts and methods (Prati et al 2009)
+1) Imbalanced-learn documentation.
+
+http://contrib.scikit-learn.org/imbalanced-learn/index.html
+
+2) Data mining with imbalanced class distributions concepts and methods (Prati et al 2009).
 
 http://conteudo.icmc.usp.br/pessoas/gbatista/files/iicai2009.pdf
 
-2) Resampling techniques and other strategies - Ajinkya More  
+3) Resampling techniques and other strategies - Ajinkya More.  
 https://www.youtube.com/watch?v=-Z1PaqYKC1w
 
-3) KEEL data set repository.
+4) KEEL data set repository.
 
 http://sci2s.ugr.es/keel/imbalanced.php
