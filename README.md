@@ -1,7 +1,7 @@
 # Dealing-With-Imbalanced-Data
 Using Imblearn To Tackle Imbalanced Data Sets
 
-Imbalanced data is a common occuring phenomenon in the world of data analysis. Here I show examples of some methods for dealing with such
+Imbalanced data is a frequently occuring feature of data sets found in various fields such as epidemiology, marketing and fraud detection. Here I show examples of some methods for dealing with such
 data. The data used came from the KEEL data set repository. I used a data set called 'yeast3' which had a class imbalance ratio of 1:8.1.
 
 Resources used:
